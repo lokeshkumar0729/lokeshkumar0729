@@ -79,7 +79,7 @@ maintaining a dynamic employee directory.
 - State management
 - localStorage persistence
 
-🔗 **Repository:** [YOUR-REPOSITORY-LINK](https://github.com/lokeshkumar0729/Work_and_Projects/tree/main/Emp_Management_System)
+🔗 **Repository:** [LINK](https://github.com/lokeshkumar0729/Work_and_Projects/tree/main/Emp_Management_System)
 
 ---
 
@@ -99,7 +99,7 @@ problem-solving implementations.
 - Problem-solving patterns
 - Time & Space Complexity
 
-🔗 **Repository:** [YOUR-REPOSITORY-LINK](https://github.com/lokeshkumar0729/DSA_Practice)
+🔗 **Repository:** [LINK](https://github.com/lokeshkumar0729/DSA_Practice)
 
 ---
 
@@ -136,11 +136,11 @@ Full-Stack Development**
 
 <p align="left">
 
-<a href="[YOUR-LINKEDIN-LINK](https://www.linkedin.com/in/lokesh-kumar0729/)">
+<a href="https://www.linkedin.com/in/lokesh-kumar0729/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[YOUR-LEETCODE-LINK](https://leetcode.com/u/Lokesh_229/)">
+<a href="https://leetcode.com/u/Lokesh_229/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
