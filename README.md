@@ -43,64 +43,39 @@ frontend development.
 
 ## 🚀 Featured Projects
 
-### 🎓 Campus Placement Management System
+### ⚡ FlashSale — E-Commerce Platform
+**React.js • Spring Boot • Java • Spring Security • JWT • MySQL**
 
-**Java • Spring Boot • Spring Security • JWT • OAuth2 • MySQL**
+Modern e-commerce platform with authentication, role-based access, products, cart, wishlist, orders, and admin management.
 
-A recruitment management system developed to streamline campus placement
-workflows.
-
-**Key Features**
-- Student application tracking
-- Company job postings
-- Recruitment workflow management
-- Authentication & authorization
-- Role-based access control
-- RESTful APIs
-- Database persistence & CRUD operations
-
-> 📌 Original source code is currently unavailable.
+🔗 **[Live Demo](https://flash-sale-gamma.vercel.app/login)** · **[GitHub](https://github.com/lokeshkumar0729/flash-Sale)**
 
 ---
 
 ### 👨‍💼 Employee Management System
-
 **React.js • JavaScript • Tailwind CSS**
 
-A responsive single-page application for managing employee records and
-maintaining a dynamic employee directory.
+Responsive employee management application with CRUD operations, validation, reusable components, and localStorage.
 
-**Key Features**
-- Employee CRUD operations
-- Dynamic employee directory
-- Form validation
-- Reusable React components
-- Responsive UI
-- State management
-- localStorage persistence
-
-🔗 **Repository:** [LINK](https://github.com/lokeshkumar0729/Work_and_Projects/tree/main/Emp_Management_System)
+🔗 **[Live Demo](https://employeemanagement-msntq50xk-lokesh-ce6f.vercel.app/)** · **[GitHub](https://github.com/lokeshkumar0729/Work_and_Projects/tree/main/Emp_Management_System)**
 
 ---
 
-### 🧠 Java Data Structures & Algorithms
+### 🎓 Campus Placement Management System
+**Java • Spring Boot • Spring Security • JWT • OAuth2 • MySQL**
 
-**Java • DSA • Problem Solving**
+Placement management system for student applications, company postings, authentication, and recruitment workflows.
 
-A continuously maintained repository containing my Java DSA practice and
-problem-solving implementations.
+> 📌 Source code currently unavailable.
 
-**Topics**
-- Arrays
-- Strings
-- Linked Lists
-- Trees
-- Dynamic Programming
-- Problem-solving patterns
-- Time & Space Complexity
+---
 
-🔗 **Repository:** [LINK](https://github.com/lokeshkumar0729/DSA_Practice)
+### 🧠 Java DSA
+**Java • Data Structures • Algorithms**
 
+Java DSA practice covering arrays, strings, linked lists, trees, dynamic programming, and problem-solving patterns.
+
+🔗 **[GitHub](https://github.com/lokeshkumar0729/DSA_Practice)**
 ---
 
 ## 🔨 What I'm Working On
