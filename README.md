@@ -70,7 +70,7 @@ Modern e-commerce platform with authentication, role-based access, products, car
 
 Responsive employee management application with CRUD operations, validation, reusable components, and localStorage.
 
-🔗 **[Live Demo](https://employeemanagement-msntq50xk-lokesh-ce6f.vercel.app/)** · **[GitHub](https://github.com/lokeshkumar0729/Work_and_Projects/tree/main/Emp_Management_System)**
+🔗 **[Live Demo](https://employeemanagement-kappa-three.vercel.app/)** · **[GitHub](https://github.com/lokeshkumar0729/Work_and_Projects/tree/main/Emp_Management_System)**
 
 ---
 
