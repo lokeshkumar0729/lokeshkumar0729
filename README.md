@@ -7,7 +7,7 @@ Computer Science and Engineering student focused on building **secure backend sy
 Currently working on **FlashSale**, a full-stack e-commerce platform with a React frontend and Spring Boot backend.
 
 <p align="left">
-  <a href="https://portfolio-user-pink.vercel.app/">
+  <a href="https://lokesh-portfolio-ten-bice.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge"/>
   </a>
   <a href="https://github.com/lokeshkumar0729">
